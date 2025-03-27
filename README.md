@@ -4,9 +4,8 @@
 Just a programming enthusiast sharing some projects from my learning journey.
 
 ## 🚀 Projects
-- 🐸 [**Keroppi**](https://github.com/AntonHennig/keroppi) - A Discord bot written in Python using discord.py
-- 🤖 [**SlashBot**](https://github.com/AntonHennig/SlashBot) - Another Discord bot implementation with Python
 - 📋 [**SnipHub**](https://github.com/AntonHennig/SnipHub) - A Vue.js based web application with JavaScript, CSS, and HTML
+- 🤖 [**SlashBot**](https://github.com/AntonHennig/SlashBot) - Another Discord bot implementation with Python
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
